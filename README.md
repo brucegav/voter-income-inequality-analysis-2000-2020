@@ -65,7 +65,7 @@ voter_inequality_project/
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [github.com/brucegav/voter-income-inequality-analysis-2000-2020]
 cd voter_inequality_project
 ```
 
